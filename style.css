@@ -4,7 +4,7 @@ body {
 
 p{
     font-size: 18px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .author{
@@ -13,7 +13,7 @@ text-decoration: underline;
 
 .thelist{
     font-size: 18px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 #theblog{
@@ -23,17 +23,21 @@ padding: 50px;
 margin: 20px;
 }
 
-a[strong]{
-text-emphasis-color: green;
-}
-
 h2{
 text-align: center;
 font-size: 30px;
 font-family: 'Times New Roman', Times, serif;
 }
 
-a:hover{
-    background-color: dimgrey;
+a:link{
+    color:turquoise;
 }
-
+a:hover{
+    background-color:white;
+}
+a:visited{
+    color: blue;
+}
+a:active{
+    color: blueviolet;
+}
