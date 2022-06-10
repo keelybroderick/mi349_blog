@@ -1,20 +1,20 @@
 body {
-    background-color: brown;
+    background-color: silver;
 }
 
 .author{
-font-style: italic;
+text-decoration: underline;
 }
 
 #theblog{
-background-color: blue;
+background-color: snow;
 }
 
 a[strong]{
 text-emphasis-color: green;
 }
 
-h{
+h2{
 text-align: center;
 }
 
