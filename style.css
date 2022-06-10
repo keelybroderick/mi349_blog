@@ -2,6 +2,11 @@ body {
     background-color: silver;
 }
 
+p{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .author{
 text-decoration: underline;
 }
@@ -19,8 +24,11 @@ text-emphasis-color: green;
 
 h2{
 text-align: center;
+font-size: 18px;
+font-family: 'Times New Roman', Times, serif;
 }
 
 a:hover{
     background-color: dimgrey;
 }
+
