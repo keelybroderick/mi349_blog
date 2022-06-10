@@ -1,3 +1,27 @@
 body {
-    background-color: white;
+    background-color: brown;
+}
+
+.author{
+font-style: italic;
+}
+
+#theblog{
+background-color: blue;
+}
+
+a[strong]{
+text-decoration: double;
+}
+
+.p{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.h{
+font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    background-color: aqua;
 }
