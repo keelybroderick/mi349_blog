@@ -11,16 +11,11 @@ background-color: blue;
 }
 
 a[strong]{
-text-decoration: double;
+text-emphasis-color: green;
 }
 
-.p{
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-color: blue;
-}
-
-.h{
-font-family: sans-serif;
+h{
+text-align: center;
 }
 
 a:hover{
