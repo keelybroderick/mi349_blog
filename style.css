@@ -3,12 +3,17 @@ body {
 }
 
 p{
-    font-size: 12px;
+    font-size: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .author{
 text-decoration: underline;
+}
+
+.thelist{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #theblog{
@@ -24,7 +29,7 @@ text-emphasis-color: green;
 
 h2{
 text-align: center;
-font-size: 18px;
+font-size: 30px;
 font-family: 'Times New Roman', Times, serif;
 }
 
