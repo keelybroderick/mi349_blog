@@ -50,7 +50,9 @@ a:active{
     color: blueviolet;
 }
 article{
-
+    background: #999;
+    padding: 20px;
+    margin: 20px;
 }
 article:nth-of-type(1){
     flex:1;
