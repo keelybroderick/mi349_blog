@@ -2,7 +2,11 @@ body{
     background-color: silver;
     
 }
-
+.sticky{
+    background: green;
+    position: sticky;
+    top: 0;
+}
 p{
     font-size: 18px;
     font-family: Arial, sans-serif;
@@ -61,5 +65,5 @@ article:nth-of-type(1){
     flex:1;
 }
 article:nth-of-type(2){
-    flex:2;
+    flex:1;
 }
