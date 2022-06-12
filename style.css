@@ -1,5 +1,6 @@
-body {
+body{
     background-color: silver;
+    
 }
 
 p{
@@ -23,6 +24,13 @@ padding: 50px;
 margin: 20px;
 }
 
+#theabout{
+    background-color: snow;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+}
+
 h2{
 text-align: center;
 font-size: 30px;
@@ -40,4 +48,13 @@ a:visited{
 }
 a:active{
     color: blueviolet;
+}
+article{
+
+}
+article:nth-of-type(1){
+    flex:1;
+}
+article:nth-of-type(2){
+    flex:1;
 }
