@@ -49,6 +49,9 @@ a:visited{
 a:active{
     color: blueviolet;
 }
+section{
+    display: flex;
+}
 article{
     background: #999;
     padding: 20px;
