@@ -7,15 +7,15 @@ body{
     position: sticky;
     top: 0;
 }
-li {
-    display: inline;
+.nav ul{
+    list-style: none;
+    text-align: left;
+    padding: 0;
+    margin: 0;
 }
 p{
     font-size: 18px;
     font-family: Arial, sans-serif;
-}
-li a{
-    display: block;
 }
 .author{
 text-decoration: underline;
