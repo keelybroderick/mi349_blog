@@ -16,7 +16,9 @@ p{
     font-size: 18px;
     font-family: Arial, sans-serif;
 }
-
+.navbar{
+    display: block;
+}
 .author{
 text-decoration: underline;
 }
