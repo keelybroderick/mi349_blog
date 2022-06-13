@@ -21,10 +21,11 @@ text-decoration: underline;
 }
 
 #theblog{
-background-color: snow;
-border: 15px;
-padding: 50px;
-margin: 20px;
+    background-color: snow;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    display: flex;
 }
 
 #theabout{
@@ -32,6 +33,7 @@ margin: 20px;
     border: 15px;
     padding: 50px;
     margin: 20px;
+    display: flex;
 }
 
 h2{
