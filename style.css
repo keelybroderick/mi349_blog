@@ -62,15 +62,6 @@ article{
     padding: 20px;
     margin: 20px;
 }
-article:nth-of-type(1){
-    flex:1;
-}
-article:nth-of-type(2){
-    flex:2;
-}
-article:nth-of-type(3){
-    flex:1;
-}
 
 .flex-container{
     display: flex;
