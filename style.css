@@ -72,7 +72,7 @@ article:nth-of-type(3){
     flex:1;
 }
 
-@media (max-width: 400px){
+@media (min-width: 400px){
     .flex-item-left{
         padding: 10px;
         flex: 50%;
