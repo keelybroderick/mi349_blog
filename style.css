@@ -72,11 +72,6 @@ article:nth-of-type(3){
     flex:1;
 }
 
-.flex-container{
-    display: flex;
-    flex-direction: row;
-}
-
 @media (max-width: 400px){
     .flex-item-left{
         padding: 10px;
