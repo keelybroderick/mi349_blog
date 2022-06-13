@@ -71,9 +71,15 @@ article:nth-of-type(3){
 }
 
 @media (max-width: 400px){
-    body{
-        background-color: aqua;
-    }
     height: 100%;
-    width: 100%;
+    width: 100%;   
+    section{
+        flex-direction: column;
+    }
+    article:nth-of-type {
+        flex-direction: column;
+    }
+    section{
+        flex-direction: column;
+    }
 }
