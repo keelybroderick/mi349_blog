@@ -73,26 +73,4 @@ article:nth-of-type(3){
 }
 
 @media (max-width: 400px){
-    section{
-        display: grid;
-        grid-template-columns: 3fr 1fr;
-        column-gap: 20px;
-        flex-direction: column;
-    }
-    article{
-        display: grid;
-        grid-template-columns: 3fr 1fr;
-        column-gap: 20px;
-        flex-direction: column;
-    }
-    nav ul {
-        display: flex;
-      }
-
-      nav li {
-        flex: 1;
-      }
-    #theblog, #theabout{
-        flex-direction: column;
-    }
 }
