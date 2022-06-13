@@ -69,3 +69,14 @@ article:nth-of-type(2){
 article:nth-of-type(3){
     flex:1;
 }
+
+@media screen and (min-width: 400px){
+    main{
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        column-gap: 20px;
+    }
+    article {
+        margin-bottom: 0;
+    }
+}
